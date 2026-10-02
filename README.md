@@ -1,2 +1,2 @@
-# .github
-ATAILA - AI Infrastructure &amp; Automation Laboratory. Building open tools for AI datacenters, GPU clusters and self-hosted platforms.
+# ataila/.github
+Organisation profile for github.com/ataila — see profile/README.md.
